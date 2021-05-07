@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Go Login
-Plugin URI: https://github.com/jorgepenela
+Plugin URI: https://github.com/jorgepenela/gologin
 Description: Redirecciona a los usuarios no logueados a la pagina de Login. 
 Version: 1.0
 Author: Jorge Penela
